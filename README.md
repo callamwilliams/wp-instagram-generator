@@ -1,5 +1,5 @@
 # InstaProp
-Add to plugins directory, activate plugin
+Quick prototype Instagram plugin 
 
 ## Usage
 1. Navigate to InstaProp in the admin area
